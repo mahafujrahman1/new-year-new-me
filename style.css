@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+
+              /* header style */
+
+.banner{
+    display: flex;
+    background-image: url(./images/banner/banner2.png);
+    background-size: cover;
+    height: 809px;
+}
+
+.banner-img img{
+    width: 100%;
+
+} 
+.banner-title{
+    margin-top: 200px;
+    margin-left: 700px;
+    margin-right: 215px;
+}
+.header-title{
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    text-align: right;
+    color: #151414;
+    
+}
+.pro-pragraph{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: right;
+    color: #444343;
+
+
+
+}
+.header-button{
+    font-weight: 600;
+    font-size: 20px;
+    color: white;
+    width: 160px;
+    height: 64px;
+    left: 1210px;
+    top: 578px;
+    background-color: #F15B22;
+    border-radius: 5px;
+    border: none;
+    margin-top: 50px;
+    margin-left: 320px;
+}
+
+             /*first-section style */
+
+  .first-section{
+    display: flex;
+    height: 720px;
+    width: 1070px;
+    margin: 150px 200px;
+}
+.my-fuilures-div{
+
+    width: 416px;
+    height: 400px;
+    margin-left: 100px;
+    margin-top: 200px;
+
+    
+ 
+}
+.first-section ul li{
+     margin-bottom: 5px;
+     color: #444343;
+     font-weight: 400;
+     font-size: 16px;
+}
+.section-title{
+    line-height: 46px;
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    
+}
+             /* my plans section */
+      
+.my-plans-section{
+    display: flex;
+    gap: 70px;
+    height: 300px;
+    width: 1070px;
+    /* margin:200px; */
+    margin-top: 110px;
+    margin-left: 230px;
+    text-align: center;
+}
+
+.my-plans-firet-title{
+    line-height: 46px;
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    text-align: center;
+
+} 
+.my-plans-title{
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+
+}
+.pro-pragraph-second{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;}   
+
+
+.my-plans-div img{
+    text-align: center;
+
+}
+/* .my-section{
+    width: 1132px;
+    height: 304.7px;
+    margin-left: 80px;
+    margin-top: 120px;
+
+} */
